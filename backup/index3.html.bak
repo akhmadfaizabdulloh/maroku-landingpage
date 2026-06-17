@@ -1,0 +1,12 @@
+        <!-- Hero -->
+        <section id="home" class="py-24 px-6 text-center bg-rose-100">
+            <h2 class="text-5xl md:text-6xl font-handwriting text-rose-600 mb-4">
+                Sajian Manis di Setiap Momen
+            </h2>
+            <p class="max-w-xl mx-auto mb-8">
+                Custom Cake, Korean Bento, & Hampers Cantik Premium di Kota Pasuruan.
+            </p>
+            <a href="#menu" class="bg-rose-500 text-white px-8 py-3 rounded-full shadow hover:bg-rose-600">
+                Lihat Katalog
+            </a>
+        </section>
